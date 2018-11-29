@@ -2,7 +2,7 @@
 
 
 
-##spring boot 技术栈.xmind 为小马哥github的原版
+## spring boot 技术栈.xmind 为小马哥github的原版
 
 
 
